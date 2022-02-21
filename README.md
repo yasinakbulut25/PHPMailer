@@ -58,4 +58,5 @@ PHPMailer kurulumu için gerekli dosyaları güncel haliyle [github](https://git
 -   Diğer dosyalar isteğe bağlıdır. Bu yüzden PHP ile mail gönderme amacıyla bu dosyaları projeye dahil etmeniz şart değil
 
 
-> PHPMailer kullanımının ve kodlarının detaylı açıklamasına   [kodsatirim.com](https://kodsatirim.com/Konular/php-mailer-kullanimi-ile-smtp-mail-gonderme) sitesinden ulaşabilirsiniz. 
+
+> PHPMailer kullanımının ve kodlarının detaylı açıklamasına   [kodsatirim.com](https://kodsatirim.com/Konular/php-mailer-kullanimi-ile-smtp-mail-gonderme) sitesinden ulaşabilirsiniz.
